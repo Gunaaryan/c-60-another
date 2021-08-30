@@ -1,0 +1,22 @@
+#s1{
+    text-align:center;
+    background-color:coral;
+}
+#s2{
+    text-align:center;
+    background:linear-gradient(orange,green);
+}
+#jimg{
+    width:220px; height:250px;
+}
+#s4{
+    text-align:center;
+    background-color:fuchsia;
+}
+#se3{
+    text-align:center;
+    background-color:chartreuse;
+}
+img{
+    width:320px; height:290px;
+}
